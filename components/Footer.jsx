@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-          <div>
+          <div className="second">
             
             <img src="./twitter.png" className="footer_icon" />
             <img src="./github.png" className="footer_icon" />
