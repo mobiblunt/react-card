@@ -1,0 +1,32 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  width: 550px;
+  margin: auto;
+  background: #23252C;
+  color: white;
+
+}
+
+.imgShot {
+  height: 317px;
+  width: 317px;
+  left: 116px;
+  top: 44px;
+  border-radius: [object Object]px;
+
+}
+
+.second {
+  
+width: 317px;
+
+margin: auto;
+background: #1A1B21;
+padding: 10px;  
+
+}
+
+.first {
+  
+}
